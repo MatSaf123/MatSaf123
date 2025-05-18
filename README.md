@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mateusz, I'm a software developer from Poland 🇵🇱 specializing in web applications at [Revolve Healthcare](https://revolve.healthcare/).
+My name is Mateusz, I'm a web developer from Poland 🇵🇱 at [Revolve Healthcare](https://revolve.healthcare/).
 
 I hold an MSc in Computer Science with a specialization in Artificial Intelligence. My master's thesis focused on applying Neuroevolution of Augmenting Topologies ([NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)) and reinforcement learning in simulations.
 
