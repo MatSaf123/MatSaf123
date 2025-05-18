@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mateusz, I'm from Poland 🇵🇱 and I'm a software developer at [Revolve Healthcare](https://revolve.healthcare/) focusing on web applications.
+My name is Mateusz, I'm from Poland 🇵🇱 and I'm a software developer at [Revolve Healthcare](https://revolve.healthcare/) specializing in web applications.
 
 My main programming langaues of choice are TypeScript, JavaScript, Python and SQL 🛠
 
