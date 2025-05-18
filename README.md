@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mateusz, I'm from Poland 🇵🇱 and I'm a software developer specializing in web applications at [Revolve Healthcare](https://revolve.healthcare/).
+My name is Mateusz, I'm a software developer from Poland 🇵🇱 specializing in web applications at [Revolve Healthcare](https://revolve.healthcare/).
 
-I have a MSc in Computer Science (Artificial Intelligence specialization), I wrote a master's thesis on using Neuroevolution of Augmenting Topologies ([NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)) and reinforcement learning in simulations 🤖
+I hold an MSc in Computer Science with a specialization in Artificial Intelligence. My master's thesis focused on applying Neuroevolution of Augmenting Topologies ([NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)) and reinforcement learning in simulations.
 
 My main programming langaues of choice are TypeScript, JavaScript, Python and SQL 🛠
 
 I work with technologies such as [NodeJS](https://nodejs.org/en), [Express](https://expressjs.com/), [React](https://react.dev/), [React-Redux](https://react-redux.js.org/), [Postgres](https://www.postgresql.org/), [Docker](https://www.docker.com/) and [AWS](https://aws.amazon.com/). One day I'll probably learn [Rust](https://www.rust-lang.org/) and then start convincing everyone around to also learn it.
 
-I also like to periodically spend weekend on fixing my [neovim](https://neovim.io/) setup only for it to break a couple of weeks later 😸
+I also like to periodically spend weekends fixing my [neovim](https://neovim.io/) setup, only for it to break a couple of weeks later 😸
