@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 😸
 
 <!--
 **MatSaf123/MatSaf123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Mateusz, I'm from Poland 🇵🇱 and I'm a software engineer at [Revolve Healthcare](https://revolve.healthcare/). 
+
+My main programming langaues of choice are TypeScript, JavaScript, Python and SQL 🛠
+
+I work with technologies such as [React](https://react.dev/), [React-Redux](https://react-redux.js.org/), [Postgres](https://www.postgresql.org/), [Docker](https://www.docker.com/) and [AWS](https://aws.amazon.com/). One day I'll probably learn [Rust](https://www.rust-lang.org/) and then start convincing everyone around to also learn it.
+
+I also like to periodically spend my weekend fixing my [neovim](https://neovim.io/) setup only for it to break a couple of weeks later 😸
