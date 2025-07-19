@@ -1,4 +1,4 @@
-## Hello 😸
+## Hello
 
 <!--
 **MatSaf123/MatSaf123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,4 @@ My main programming langaues of choice are TypeScript, JavaScript, Python and SQ
 
 I work with technologies such as [NodeJS](https://nodejs.org/en), [Express](https://expressjs.com/), [React](https://react.dev/), [React-Redux](https://react-redux.js.org/), [Postgres](https://www.postgresql.org/), [Docker](https://www.docker.com/) and [AWS](https://aws.amazon.com/). One day I'll probably learn [Rust](https://www.rust-lang.org/) and then start convincing everyone around to also learn it.
 
-I also like to periodically spend weekends fixing my [neovim](https://neovim.io/) setup, only for it to break a couple of weeks later 😸
+I also like to periodically spend weekends fixing my [neovim](https://neovim.io/) setup, only for it to break a couple of weeks later
